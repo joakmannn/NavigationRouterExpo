@@ -2,6 +2,14 @@
 
 Une application d'authentification élégante construite avec Expo et Supabase.
 
+## 🎨 Captures d'écran
+
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="assets/screenshots/SignIn.png" width="30%" alt="Page de connexion" />
+  <img src="assets/screenshots/SignUp.png" width="30%" alt="Page d'inscription" />
+  <img src="assets/screenshots/Reset.png" width="30%" alt="Page de réinitialisation" />
+</div>
+
 ## 🎨 Design & Interface
 
 L'application suit une direction artistique cohérente avec :
